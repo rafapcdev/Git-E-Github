@@ -14,7 +14,7 @@ Aqui estão os tópicos e resumos que este repositório cobre, baseados nos mód
 * O que é Versionamento de Código?
 * O que é Git?
 * O que é GitHub?
-* Diferença entre Git e GitHub.
+* Diferença entre Git e GitHub e Gitlab
 
 ### 2. Comandos Essenciais do Git
 * `git init` - Inicializando um repositório.
